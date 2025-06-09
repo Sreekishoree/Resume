@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head>
+    <title>About me</title>
+</head>
+
+<body><center>
+    <h1><u>About Me/Contact</h1></u>
+    <img src="./DSC_1675+++.jpg" alt="Me:)" width="100">
+    <p>linked-in profile --> &nbsp;<a href="https://www.linkedin.com/in/sreekishore-r-bb3115258/">Linked in</a></p>
+    <p>Gmail --> rsreekishore@gmail.com</p>
+    
+    <p>Home -->&nbsp;<a href="./index.html">Redirect</a></p>
+    </center>
+</body>
+</html>
